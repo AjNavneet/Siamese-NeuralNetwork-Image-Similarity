@@ -63,19 +63,3 @@ The Triplet Loss Function is widely used in Image Similarity Problems. The data 
 
 ---
 
-## Key Concepts Explored:
-
-- Convolutional Neural Network
-- Siamese Neural Network
-- Why CNN is preferred in Siamese Neural Networks?
-- Application of Siamese Neural Network
-- Understanding image similarity
-- Triplet Loss Function
-- Data Augmentation
-- Euclidean Distance
-- Build Siamese Network with TensorFlow
-- Predict Similar images using the trained model
-
-
----
-
